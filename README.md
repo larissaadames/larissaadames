@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF91A4&center=true&random=false&width=1000&lines=Oii!+Bem+vindo!;Meu+nome+%C3%A9+Lari!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF91A4&center=true&random=false&width=1000&lines=Bem+vindo!;Meu+nome+%C3%A9+Lari!)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/larissaadames">
